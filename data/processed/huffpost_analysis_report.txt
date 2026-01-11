@@ -1,0 +1,75 @@
+ANALYSE DÉTAILLÉE - HUFFINGTON POST
+================================================================================
+
+DATE D'ANALYSE: 2026-01-11 04:07
+ARTICLES ANALYSÉS: 35,468
+
+1. PÉRIODE COUVERTE:
+   • Début: 2014-04-18
+   • Fin: 2022-09-23
+   • Années: 9
+
+2. DISTRIBUTION TEMPORELLE:
+   • 2014: 2,853 articles
+   • 2015: 4,655 articles
+   • 2016: 8,179 articles
+   • 2017: 11,210 articles
+   • 2018: 4,087 articles
+   • 2019: 1,265 articles
+   • 2020: 1,113 articles
+   • 2021: 1,291 articles
+   • 2022: 815 articles
+
+3. THÉMATIQUES IDENTIFIÉES (LDA):
+   • 8 thèmes principaux
+   • Distribution:
+     - Thème 0: 5,188 articles (14.6%)
+     - Thème 1: 3,103 articles (8.7%)
+     - Thème 2: 4,399 articles (12.4%)
+     - Thème 3: 5,618 articles (15.8%)
+     - Thème 4: 3,587 articles (10.1%)
+     - Thème 5: 4,681 articles (13.2%)
+     - Thème 6: 5,308 articles (15.0%)
+     - Thème 7: 3,584 articles (10.1%)
+   
+4. ANALYSE DE SENTIMENT:
+   • Score moyen: 0.238
+   • Articles positifs: 2,843 (56.9%)
+   • Articles négatifs: 1,119 (22.4%)
+   • Articles neutres: 1,038 (20.8%)
+
+5. PERSONNALITÉS LES PLUS MENTIONNÉES:
+   • Trump: 2,597 mentions (51.9%)
+   • Obama: 1,425 mentions (28.5%)
+   • Clinton: 993 mentions (19.9%)
+   • Sanders: 451 mentions (9.0%)
+   • Biden: 244 mentions (4.9%)
+
+6. PAYS LES PLUS MENTIONNÉS:
+   • Us: 4,999 mentions (100.0%)
+   • America: 2,607 mentions (52.1%)
+   • Usa: 1,112 mentions (22.2%)
+   • Russia: 606 mentions (12.1%)
+   • Uk: 434 mentions (8.7%)
+
+7. COMPLEXITÉ LINGUISTIQUE:
+   • Mots par article (moyenne): 763
+   • Phrases par article (moyenne): 1.0
+   • Longueur moyenne des mots: 5.0 caractères
+
+8. CLUSTERING:
+   • Cluster 0: 8,163 articles (23.0%)
+   • Cluster 1: 5,652 articles (15.9%)
+   • Cluster 2: 8,081 articles (22.8%)
+   • Cluster 3: 9,639 articles (27.2%)
+   • Cluster 4: 3,933 articles (11.1%)
+
+CONCLUSIONS PRINCIPALES:
+1. Le Huffington Post couvre une période de 9 ans
+2. 8 thèmes principaux structurent le discours
+3. Le ton général est positif
+4. Les personnalités politiques sont fréquemment mentionnées
+5. La complexité linguistique varie selon les clusters
+
+================================================================================
+FIN DU RAPPORT

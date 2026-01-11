@@ -1,0 +1,26 @@
+# Data files (trop gros pour GitHub)
+data/processed/*.csv
+data/processed/*.pt
+data/processed/*.npy
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,36 @@
+ANALYSE DES DISCOURS MÉDIATIQUES - RAPPORT RAPIDE
+============================================================
+
+DONNÉES ANALYSÉES:
+• Total articles: 35,468
+• Échantillon analysé: 15,000
+• Période: 2014-04-18 à 2022-09-23
+
+RÉSULTATS CLÉS:
+
+1. STRUCTURE DES DISCOURS:
+• MiniBatch K-means révèle 5 clusters
+• Score silhouette: 0.035 (structure faible mais discernable)
+• Distribution: {1: 3888, 0: 2527, 3: 1709, 4: 3639, 2: 3237}
+
+2. TOPICS IDENTIFIÉS (NMF):
+• 6 topics principaux
+• Distribution: {0: 3056, 2: 1552, 1: 4898, 4: 4263, 3: 859, 5: 372}
+
+3. ZONES DE CONCENTRATION:
+• 30.0% des discours dans zones denses
+• Indique des thèmes récurrents/prédominants
+
+4. DISCOURS EXTRÊMES:
+• 10.0% des discours identifiés comme 'extrêmes'
+• Ces articles sont sémantiquement éloignés du discours médian
+
+INTERPRÉTATION:
+Les discours médiatiques forment un continuum avec quelques pôles de concentration.
+L'absence de clusters nets suggère une relative homogénéité des discours
+ou la nécessité d'analyses plus fines (par source, par période).
+
+NEXT STEPS:
+1. Analyse comparative par source médiatique
+2. Évolution temporelle des topics
+3. Analyse sentiment par cluster
